@@ -40,7 +40,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<h1><a  href="index.blade.php">Sewing<span>Great look in Outfit</span></a></h1>
+						<h1 class ="head1"><a  href="index.blade.php">Sewing<span>Great look in Outfit</span></a></h1>
 					</div>
 					<!-- navbar-header -->
 					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
